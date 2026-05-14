@@ -28,6 +28,15 @@ as possible near duplicates.
 
 ---
 
+## Before Running
+
+Create these folders manually inside the project directory:
+
+```text
+data_raw/
+outputs/
+```
+
 ## Input File
 
 Place the Primavera P6 Excel export inside the `data_raw` folder and rename it:
